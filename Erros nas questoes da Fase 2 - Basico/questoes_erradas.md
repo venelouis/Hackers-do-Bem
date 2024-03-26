@@ -1,4 +1,4 @@
-### Estes foram alguns erros encontrados que encontrei, nas questões abaixo retirados da plataforma Hackers do Bem, o mesmo conteúdo pode ser lido por alunos na plataforma através do endenreço: https://ava.hackersdobem.org.br/mod/forum/discuss.php?d=19 (último acesso em: 26 de março de 2024)
+### Estes foram alguns erros que encontrei nas questões abaixo retiradas da plataforma Hackers do Bem, o mesmo conteúdo pode ser lido por alunos na plataforma através do endenreço: https://ava.hackersdobem.org.br/mod/forum/discuss.php?d=19 (último acesso em: 26 de março de 2024)
 
 ## Erro 1:
 
