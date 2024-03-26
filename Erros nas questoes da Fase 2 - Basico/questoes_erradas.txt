@@ -1,6 +1,7 @@
 Estes foram alguns erros encontrados por mim, nas questões abaixo retirados da plataforma Hackers do Bem, o mesmo conteúdo pode ser lido por alunos na plataforma através do endenreço: https://ava.hackersdobem.org.br/mod/forum/discuss.php?d=19 (último acesso em: 26 de março de 2024)
 
 Erro 1:
+
 Módulo 2 - Compreender os principais conceitos de desenvolvimento
 Aula 2 – Principais tipos de aplicações
 Praticando Questão 1: Leia atentamente as informações fornecidas a seguir sobre tipos de aplicações e linguagens de programação e selecione a alternativa correta.
@@ -162,3 +163,34 @@ Ambas as opções demonstram falhas no comportamento dos funcionários que podem
 
 Investir na segurança da informação e na conscientização do fator humano é fundamental para proteger as empresas contra ataques cibernéticos e violações de dados.
 
+Erro 6:
+Quiz 6 Questão 3: Qual das seguintes opções descreve corretamente um dos cinco controles destacados pelo TCU (Tribunal de Contas da União)?
+
+CONTROLE 1: INVENTÁRIO E CONTROLE DE ATIVOS CORPORATIVOS
+CONTROLE 2: INVENTÁRIO E CONTROLE DE ATIVOS DE SOFTWARE
+CONTROLE 7 (3): GESTÃO CONTÍNUA DE VULNERABILIDADES
+CONTROLE 14 (4): CONSCIENTIZAÇÃO SOBRE SEGURANÇA E TREINAMENTO DE COMPETÊNCIAS
+CONTROLE 17 (5): GESTÃO DE RESPOSTAS A INCIDENTES
+
+Fonte PDF do site do tcu: https://portal.tcu.gov.br/data/files/4D/E3/DF/81/8C0848102DFE0FF7F18818A8/__5%20Controles%20de%20seguranAa%20cibernAtica%20para%20ontem_final_web.pdf
+
+Portanto a opção:
+"Conscientização sobre segurança e treinamento: esse controle se concentra em criar uma cultura de segurança cibernética na organização por meio de programas de treinamento e conscientização para os funcionários."
+
+Está correta! Veja o que diz mais o PDF sobre esse controle:
+
+Por que esse controle é crítico?
+
+No tripé da SegInfo, formado por tecnologia, processos e pessoas, estas representam, provavelmente, o principal ponto de fragilidade (no jargão da área, são “o elo mais fraco da corrente”). A título de exemplo, é bem mais fácil um invasor ter sucesso induzindo o usuário a clicar em um link ou abrir um anexo de e-mail e, com isso, instalar um software malicioso no próprio computador, do que explorando alguma vulnerabilidade de rede.
+
+Ademais, os colaboradores, intencionalmente ou não, podem causar incidentes de segurança por meio de diversas outras ações, tais como o envio de e-mail com dados sensíveis para destinatário errado, a perda de equipamento/ dispositivo portátil – notebook, pendrive –, a utilização de senha fraca ou reutilização da mesma senha usada para autenticação em sítio público.
+
+E ainda a justificativa de que a c é incorreta está ela mesmo equivocada:
+"está incorreta, pois embora a conscientização e o treinamento sejam importantes, eles não são um dos cinco controles específicos destacados pelo TCU."
+
+Pois de fato é sim um dos 5 controles específicos destacados pelo TCU, como podemos ver acima no próprio PDF!
+
+Sobre a resposta correta ser: 
+"Inventário e controle de ativos corporativos: esse controle envolve o monitoramento de todos os ativos de hardware e software da organização para garantir que estejam devidamente documentados e atualizados"
+
+Está errada pois os ativos de software são monitorados pelo controle 2: INVENTÁRIO E CONTROLE DE ATIVOS DE SOFTWARE e não pelo controle 1!
