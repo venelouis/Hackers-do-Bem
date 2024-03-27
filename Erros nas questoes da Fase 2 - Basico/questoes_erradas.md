@@ -1,6 +1,6 @@
 ### Estes foram alguns erros que encontrei nas questões abaixo retiradas da plataforma Hackers do Bem, o mesmo conteúdo pode ser lido por alunos na plataforma através do endenreço: https://ava.hackersdobem.org.br/mod/forum/discuss.php?d=19 (último acesso em: 26 de março de 2024)
 
-*Atualização: 26 de março 2024 às 21:51 O fórum (avisos da plataforma foi desabilitado para novas postagens)
+*Atualização: 26 de março 2024 às 21:51 - O fórum (avisos) da plataforma foi desabilitado para novas postagens.
 
 ## Erro 1:
 
