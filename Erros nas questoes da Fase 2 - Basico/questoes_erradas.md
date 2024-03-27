@@ -29,27 +29,35 @@ Módulo 2 - Compreender os principais conceitos de desenvolvimento
 Aula 2 – Principais tipos de aplicações
 Praticando Questão 3: Leia as informações sobre compiladores e interpretadores e selecione a alternativa correta.
 Compiladores transformam código-fonte em linguagem de máquina, identificam erros e geram arquivos executáveis. Por outro lado, interpretadores executam instruções uma a uma, sem converter todo o código de uma vez.
+
 Item "correto" = Compiladores traduzem código-fonte, enquanto interpretadores executam instruções diretamente em linguagem de máquina. (será?)
+
 Essa afirmação não está totalmente correta. Compiladores e interpretadores são ferramentas que facilitam a execução de programas escritos em linguagens de alto nível, mas o fazem de maneiras diferentes.
+
 **Compiladores:**
 * Traduzem o código-fonte de alto nível para linguagem de máquina antes da execução.
 * O código-fonte é convertido em um arquivo executável que pode ser executado diretamente pelo sistema operacional.
 * Exemplos de linguagens compiladas: C, C++, Java, Go.
+
 **Interpretadores:**
 * Leem e executam o código-fonte linha por linha durante a execução.
 * Não geram um arquivo executável.
 * Exemplos de linguagens interpretadas: Python, JavaScript, Ruby, PHP.
+
 **Diferenças:**
 * **Momento da tradução:** Compiladores traduzem o código antes da execução, enquanto intérpretes traduzem durante a execução.
 * **Eficiência:** Programas compilados geralmente são mais rápidos que programas interpretados.
 * **Portabilidade:** Programas compilados podem ser executados em diferentes plataformas sem modificação, enquanto programas interpretados podem precisar de um interpretador específico para cada plataforma.
+
 **Em resumo:**
 * Compiladores e interpretadores traduzem código-fonte para linguagem de máquina.
 * Compiladores fazem isso antes da execução, enquanto intérpretes fazem durante a execução.
 * Compiladores geralmente oferecem melhor desempenho, enquanto intérpretes oferecem melhor portabilidade.
+
 **Exceções:**
 * Existem linguagens que podem ser compiladas ou interpretadas, como C# e Visual Basic.
 * Alguns interpretadores, como o PyPy, podem gerar código de máquina durante a execução, o que melhora o desempenho.
+
 **Para escolher entre um compilador e um intérprete:**
 * Considere a necessidade de velocidade, portabilidade e flexibilidade.
 * Pesquise as características específicas da linguagem de programação que você deseja usar.
@@ -68,34 +76,6 @@ Nenhuma das alternativas apresentadas descreve corretamente as aplicações dos 
 - Aplicações desktop são instaladas localmente em um computador e são executadas no sistema operacional desse computador.
 - Aplicações de nuvem são hospedadas em servidores remotos e são acessadas através da internet. Elas podem ser acessadas por meio de um navegador da web ou de um aplicativo instalado no dispositivo do usuário.
 - Aplicações de IA (Inteligência Artificial) utilizam técnicas de aprendizado de máquina e outras formas de inteligência artificial para realizar tarefas complexas. Elas podem ser implementadas em qualquer um dos tipos de aplicações mencionados acima. Por exemplo, um aplicativo móvel pode usar IA para recomendar músicas com base nas preferências do usuário, ou um aplicativo de nuvem pode usar IA para analisar grandes volumes de dados.
-
-Explicação:
-Aplicações web:
-São executadas em um navegador da web, como Chrome, Firefox ou Edge.
-Não precisam ser instaladas no computador do usuário.
-São acessíveis a partir de qualquer dispositivo com acesso à internet.
-Exemplos: Gmail, Google Maps, Facebook.
-
-Aplicações mobile:
-São desenvolvidas para dispositivos móveis, como smartphones e tablets.
-São instaladas nas lojas de aplicativos, como Google Play Store ou App Store.
-Exemplos: WhatsApp, Instagram, Spotify.
-
-Aplicações desktop:
-São instaladas localmente no computador do usuário.
-Não precisam de acesso à internet para funcionar.
-Exemplos: Microsoft Office, Adobe Photoshop, jogos.
-
-Aplicações de nuvem:
-São executadas em servidores remotos e acessadas através de um navegador da web.
-Não precisam ser instaladas no computador do usuário.
-São acessíveis a partir de qualquer dispositivo com acesso à internet.
-Exemplos: Google Drive, Dropbox, Netflix.
-
-Aplicações de IA:
-São utilizadas em diversos tipos de aplicações, como web, mobile, desktop e nuvem.
-São usadas para automatizar tarefas, analisar dados e tomar decisões.
-Exemplos: reconhecimento facial, chatbots, carros autônomos.
 
 Recursos adicionais para pesquisa: <br>
 - Wikipedia - Aplicação web: https://pt.wikipedia.org/wiki/Aplica%C3%A7%C3%A3o_web
