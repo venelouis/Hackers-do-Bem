@@ -1,5 +1,7 @@
 ### Estes foram alguns erros que encontrei nas questões abaixo retiradas da plataforma Hackers do Bem, o mesmo conteúdo pode ser lido por alunos na plataforma através do endenreço: https://ava.hackersdobem.org.br/mod/forum/discuss.php?d=19 (último acesso em: 26 de março de 2024)
 
+*Atualização: 26 de março 2024 às 21:51 O fórum (avisos da plataforma foi desabilitado para novas postagens)
+
 ## Erro 1:
 
 Módulo 2 - Compreender os principais conceitos de desenvolvimento
@@ -24,33 +26,26 @@ Aula 2 – Principais tipos de aplicações
 Praticando Questão 3: Leia as informações sobre compiladores e interpretadores e selecione a alternativa correta.
 Compiladores transformam código-fonte em linguagem de máquina, identificam erros e geram arquivos executáveis. Por outro lado, interpretadores executam instruções uma a uma, sem converter todo o código de uma vez.
 Item "correto" = Compiladores traduzem código-fonte, enquanto interpretadores executam instruções diretamente em linguagem de máquina. (será?)
-
 Essa afirmação não está totalmente correta. Compiladores e interpretadores são ferramentas que facilitam a execução de programas escritos em linguagens de alto nível, mas o fazem de maneiras diferentes.
-
 **Compiladores:**
 * Traduzem o código-fonte de alto nível para linguagem de máquina antes da execução.
 * O código-fonte é convertido em um arquivo executável que pode ser executado diretamente pelo sistema operacional.
 * Exemplos de linguagens compiladas: C, C++, Java, Go.
-
 **Interpretadores:**
 * Leem e executam o código-fonte linha por linha durante a execução.
 * Não geram um arquivo executável.
 * Exemplos de linguagens interpretadas: Python, JavaScript, Ruby, PHP.
-
 **Diferenças:**
 * **Momento da tradução:** Compiladores traduzem o código antes da execução, enquanto intérpretes traduzem durante a execução.
 * **Eficiência:** Programas compilados geralmente são mais rápidos que programas interpretados.
 * **Portabilidade:** Programas compilados podem ser executados em diferentes plataformas sem modificação, enquanto programas interpretados podem precisar de um interpretador específico para cada plataforma.
-
 **Em resumo:**
 * Compiladores e interpretadores traduzem código-fonte para linguagem de máquina.
 * Compiladores fazem isso antes da execução, enquanto intérpretes fazem durante a execução.
 * Compiladores geralmente oferecem melhor desempenho, enquanto intérpretes oferecem melhor portabilidade.
-
 **Exceções:**
 * Existem linguagens que podem ser compiladas ou interpretadas, como C# e Visual Basic.
 * Alguns interpretadores, como o PyPy, podem gerar código de máquina durante a execução, o que melhora o desempenho.
-
 **Para escolher entre um compilador e um intérprete:**
 * Considere a necessidade de velocidade, portabilidade e flexibilidade.
 * Pesquise as características específicas da linguagem de programação que você deseja usar.
@@ -166,7 +161,7 @@ Portanto a opção:
 
 Está correta! Veja o que diz mais o PDF sobre esse controle:
 
-Por que esse controle é crítico?
+**Por que esse controle é crítico?**
 
 No tripé da SegInfo, formado por tecnologia, processos e pessoas, estas representam, provavelmente, o principal ponto de fragilidade (no jargão da área, são “o elo mais fraco da corrente”). A título de exemplo, é bem mais fácil um invasor ter sucesso induzindo o usuário a clicar em um link ou abrir um anexo de e-mail e, com isso, instalar um software malicioso no próprio computador, do que explorando alguma vulnerabilidade de rede.
 
