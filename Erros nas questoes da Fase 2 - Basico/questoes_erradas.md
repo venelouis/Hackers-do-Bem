@@ -2,8 +2,10 @@
 
 *Atualização: 26 de março 2024 às 21:51 - O fórum (avisos) da plataforma foi desabilitado para novas postagens.
 
-## Erro 1:
 
+<img width="60%" src="./images/forum-avisos.png">
+
+## Erro 1:
 Módulo 2 - Compreender os principais conceitos de desenvolvimento
 Aula 2 – Principais tipos de aplicações
 Praticando Questão 1: Leia atentamente as informações fornecidas a seguir sobre tipos de aplicações e linguagens de programação e selecione a alternativa correta.
@@ -18,6 +20,8 @@ As linguagens compiladas são convertidas diretamente na máquina em um código 
 As linguagens interpretadas passam por um programa linha por linha e executam cada comando1. Antigamente, eram significativamente mais lentas do que as linguagens compiladas. Porém, com o desenvolvimento da compilação just-in-time, essa distância vem diminuindo1. Exemplos de linguagens interpretadas comuns são o PHP, o Ruby, o Python e o JavaScript.
 
 Portanto, se a velocidade de execução for uma prioridade, as linguagens compiladas podem ser uma escolha melhor. No entanto, as linguagens interpretadas oferecem vantagens, como a portabilidade e a flexibilidade, que podem ser mais adequadas para certos tipos de projetos.
+
+<img width="60%" src="./images/questao-errada.png">
 
 ## Erro 2:
 
@@ -93,12 +97,12 @@ São utilizadas em diversos tipos de aplicações, como web, mobile, desktop e n
 São usadas para automatizar tarefas, analisar dados e tomar decisões.
 Exemplos: reconhecimento facial, chatbots, carros autônomos.
 
-Recursos adicionais para pesquisa:
-Wikipedia - Aplicação web: https://pt.wikipedia.org/wiki/Aplica%C3%A7%C3%A3o_web
-Wikipedia - Aplicação móvel: https://pt.wikipedia.org/wiki/Aplica%C3%A7%C3%A3o_m%C3%B3vel
-Wikipedia - Software de computador: https://pt.wikipedia.org/wiki/Software_de_computador
-Wikipedia - Computação em nuvem: https://pt.wikipedia.org/wiki/Computa%C3%A7%C3%A3o_em_nuvem
-Wikipedia - Inteligência artificial: https://pt.wikipedia.org/wiki/Intelig%C3%AAncia_artificial
+Recursos adicionais para pesquisa: <br>
+- Wikipedia - Aplicação web: https://pt.wikipedia.org/wiki/Aplica%C3%A7%C3%A3o_web
+- Wikipedia - Aplicação móvel: https://pt.wikipedia.org/wiki/Aplica%C3%A7%C3%A3o_m%C3%B3vel
+- Wikipedia - Software de computador: https://pt.wikipedia.org/wiki/Software_de_computador
+- Wikipedia - Computação em nuvem: https://pt.wikipedia.org/wiki/Computa%C3%A7%C3%A3o_em_nuvem
+- Wikipedia - Inteligência artificial: https://pt.wikipedia.org/wiki/Intelig%C3%AAncia_artificial
 
 ## Erro 4:
 No quiz do módulo 3:
